@@ -17,7 +17,6 @@ You are a data analyst at a consulting firm and you have access to a dataset of 
 -	You may work on any programming language of your choice. Code samples are provided in R but the choice of language is up to you. 
 -	The dataset is in JSON format. It needs cleaning. You don’t need to follow the guidelines provided below. You may do the cleaning any way you like.
 -	In your deliverable, you should include (along with your code) a report justifying the steps you took in order to perform the tasks. The report should be VERY brief.
--	ONE deliverable per team. The names of the members of each team along with their AM should be included in the first page of the report.
 -	Your code should be fully commented.
 
 # TASKS
